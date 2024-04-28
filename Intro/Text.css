@@ -1,0 +1,43 @@
+p {
+    font-size: large;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+ 
+}
+
+.A1 {
+    font-weight: bold;
+    color: black;
+    background-color: bisque;
+    margin-bottom: 8px;
+}
+
+.A2 {
+    opacity: 0.5;
+    margin-bottom: 10px;
+    background-color: black;
+}
+
+.A3 {
+    font-size: 30px;
+}
+
+button {
+    background-color: green;
+    font-size: medium;
+    font-weight: bolder;
+    box-shadow: 10px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: 2.2s;
+    cursor: crosshair;
+}
+
+button:hover {
+    opacity: 0.3;
+}
