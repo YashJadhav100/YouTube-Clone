@@ -24,18 +24,31 @@ This project is a static frontend clone of YouTube's homepage, built entirely us
 
 youtube-clone-html-css/
 ├── New-Project.html # Main HTML file
+
 ├── New-project.css # Stylesheet
+
 ├── Icons/ # Folder containing navigation and UI icons
+
 │ ├── hamburger-menu.svg
+
 │ ├── youtube-logo.svg
+
 │ ├── search.svg
+
 │ ├── voice-search-icon.svg
+
 │ ├── upload.svg
+
 │ ├── youtube-apps.svg
+
 │ ├── notifications.svg
+
 │ └── Y.png
+
 ├── LOGOS/ # Folder with channel logo images
+
 │ ├── 1.LOGO.png ... 6.LOGO.png
+
 ├── 1.png to 6.png # Video thumbnails
 
 ## 🛠️ Technologies Used
