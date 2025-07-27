@@ -23,6 +23,7 @@ This project is a static frontend clone of YouTube's homepage, built entirely us
 ## 📂 Project Structure
 
 youtube-clone-html-css/
+
 ├── New-Project.html # Main HTML file
 
 ├── New-project.css # Stylesheet
